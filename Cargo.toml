@@ -1,7 +1,7 @@
 [package]
 name = "yargb"
 version = "0.1.0"
-authors = ["Karolis Stasaitis <contact@carlossless.io>"]
+authors = ["Karolis Stasaitis <contact@karstx.net>"]
 edition = "2024"
 license = "MIT"
 

@@ -58,7 +58,7 @@
 
             meta = with pkgs.lib; {
               description = "Yet another gameboy emulator";
-              homepage = "https://github.com/carlossless/yargb";
+              homepage = "https://github.com/karstx/yargb";
               license = licenses.mit;
               mainProgram = "yargb";
               maintainers = with maintainers; [ carlossless ];
